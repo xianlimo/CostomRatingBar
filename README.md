@@ -1,2 +1,2 @@
 # CostomRatingBar
-a costom RatingBar
+a costom RatingBar for Android
